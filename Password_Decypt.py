@@ -199,9 +199,6 @@ if __name__ == "__main__":
 ' The number of threads/processes is used.'
 # The program ran using four threads although six threads were assigned 
 
-'The CPU model that your code is run on'
-# Apple M1 Silicon 
-
 'The throughput of password cracking,'
 # Although I was using multiple threads. 
 # The way I implemented the iteration of the permutations resulted in poor run time.
